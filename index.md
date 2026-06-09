@@ -1,7 +1,7 @@
 # Privacy Policy — 2 Truths 1 Lie
 
-**Effective date:** [INSERT DATE — e.g., 1 July 2026]
-**Last updated:** [INSERT DATE]
+**Effective date:** 9 June 2026
+**Last updated:** 9 June 2026
 
 This Privacy Policy describes how the mobile application "2 Truths 1 Lie"
 ("the App", "we", "us", "our") collects, uses, and shares information
@@ -19,7 +19,7 @@ agree, please do not use the App.
 |---|---|
 | **App name** | 2 Truths 1 Lie |
 | **Publisher** | The Quiz Blend |
-| **Contact email** | [INSERT YOUR CONTACT EMAIL — e.g., privacy@thequizblend.com] |
+| **Contact email** | thequizblend@gmail.com |
 | **YouTube channel** | https://www.youtube.com/@TheQuizBlend |
 
 ---
@@ -116,13 +116,13 @@ Depending on your country, you may have the right to:
 - **Withdraw consent** for advertising or analytics
 
 To exercise any of these rights, email us at
-**[INSERT YOUR CONTACT EMAIL]** with the subject line "Privacy Request".
+**thequizblend@gmail.com** with the subject line "Privacy Request".
 We will respond within 30 days.
 
 To delete your account:
 
 - **Email/Google sign-in users:** Email us at
-  **[INSERT YOUR CONTACT EMAIL]** from your sign-in email address (or
+  **thequizblend@gmail.com** from your sign-in email address (or
   include it in the message body) with the subject line "Delete my
   account". We will permanently delete your account and all associated
   data within **30 days** of receiving the request and send you a
@@ -155,7 +155,7 @@ children below those ages.
 
 If you are a parent or guardian and believe your child has provided
 personal information to us, please contact us at
-**[INSERT YOUR CONTACT EMAIL]** and we will delete it promptly.
+**thequizblend@gmail.com** and we will delete it promptly.
 
 ---
 
@@ -177,7 +177,7 @@ We use industry-standard safeguards including HTTPS encryption in
 transit, Google Cloud's encrypted-at-rest storage, and Firebase
 Authentication's session management. No system is 100% secure; if you
 become aware of a security issue, please report it to
-**[INSERT YOUR CONTACT EMAIL]**.
+**thequizblend@gmail.com**.
 
 ---
 
@@ -205,8 +205,7 @@ accept the revised Policy.
 For any questions, requests, or complaints about this Policy or how
 your data is handled:
 
-**Email:** [INSERT YOUR CONTACT EMAIL]
-**Mailing address:** [INSERT YOUR ADDRESS — optional but recommended for GDPR]
+**Email:** thequizblend@gmail.com
 
 ---
 

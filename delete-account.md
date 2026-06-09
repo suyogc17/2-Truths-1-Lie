@@ -12,7 +12,7 @@ We make it simple. Email us and we'll handle it within 30 days.
 
 ### Step 1 — Send us an email
 
-Email **[INSERT YOUR CONTACT EMAIL]** with the subject line:
+Email **thequizblend@gmail.com** with the subject line:
 
 > **Delete my account**
 
@@ -58,10 +58,10 @@ the legal requirement allows.
 ## Other privacy questions
 
 For anything else — data export requests, corrections, complaints —
-the same email address handles it: **[INSERT YOUR CONTACT EMAIL]**.
+the same email address handles it: **thequizblend@gmail.com**.
 
 For the full Privacy Policy, see [our Privacy Policy page](./).
 
 ---
 
-*Last updated: [INSERT DATE]*
+*Last updated: 9 June 2026*
